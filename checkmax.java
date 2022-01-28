@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+//----------to check the maximum between two numbers
 class max
 {
     int num1;
@@ -18,8 +19,8 @@ class max
         else {
             System.out.println(num2+" is greater than "+num1);
         }
-//        int maxnum = Math.max(num1,num2);
-//        System.out.println(maxnum);
+//--------------int maxnum = Math.max(num1,num2);
+//--------------System.out.println(maxnum);
     }
 }
 public class checkmax {
